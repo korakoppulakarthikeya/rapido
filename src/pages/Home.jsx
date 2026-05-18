@@ -1,4 +1,4 @@
-import "../Style/home.css";
+import "../style/home.css";
 
 const Home = () => {
   return (

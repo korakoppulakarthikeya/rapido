@@ -1,4 +1,4 @@
-import "../Style/careers.css";
+import "../style/careers.css";
 
 const Careers = () => {
   return (

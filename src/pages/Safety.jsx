@@ -1,4 +1,4 @@
-import "../Style/safety.css";
+import "../style/safety.css";
 
 const Safety = () => {
   return (
