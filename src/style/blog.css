@@ -1,0 +1,8 @@
+.page-b{
+    background-image: url('https://imgs.search.brave.com/Sjq80wLh04SY2tfNwfrkYY2tzafE_1S8WNHiJ5f7hwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9saDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL0RJ/ejN4YjNQaWVidVNw/OU5FTzV2RVdDQldN/XzR1aWdYcE9RTVJr/YmxsbWRtNmYzT0dY/YXJmMnFHMVI3ME1r/ZXdoODZTSFN6NERC/ZTQ3U05GNG1rcWJu/THhBemU5NVIxbGN4/blk9ZTM2NS1wYS1u/dS1zMA');
+    background-size: cover;
+    background-position:end;
+    color: white;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+}
