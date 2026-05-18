@@ -1,5 +1,5 @@
-import Nav from "./components/Nav.jsx";
-import RouterComponent from "./RouterComponents.jsx";
+import Nav from "./components/Nav";
+import RouterComponent from "./RouterComponents";
 
 function App() {
   return (
