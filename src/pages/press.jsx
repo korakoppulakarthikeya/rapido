@@ -2,7 +2,7 @@ const Press = () => {
   return (
     <div className="page">
 
-      <h1>Press Page</h1>
+      <h1>Press  Page</h1>
      
     </div>
   );

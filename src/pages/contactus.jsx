@@ -10,7 +10,7 @@ const ContactUs = () => {
       <h5>Registered Office Address:</h5>
       <p>Roppen Transportation Services Pvt Ltd, 3rd Floor, Sai Prithvi Arcade, Megha Hills, Sri Rama Colony, Madhapur, Hyderabad - 500081.</p>
 
-      <h5>CIN:</h5>
+      <h5>CIN: </h5>
       <p>U52210TG2015PTC097115</p>
 
       <h5>City Office:</h5>
